@@ -1,0 +1,13 @@
+d:\podaci\programer8\documents\visual studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\Polaznicki_forum.dll
+d:\podaci\programer8\documents\visual studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\Polaznicki_forum.pdb
+d:\podaci\programer8\documents\visual studio 2012\Projects\ADDDDO\Polaznicki_forum\obj\Debug\Polaznicki_forum.dll
+d:\podaci\programer8\documents\visual studio 2012\Projects\ADDDDO\Polaznicki_forum\obj\Debug\Polaznicki_forum.pdb
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\Newtonsoft.Json.dll
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\System.Net.Http.Formatting.dll
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\System.Web.Http.dll
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\System.Web.Http.WebHost.dll
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\Newtonsoft.Json.xml
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\System.Net.Http.Formatting.xml
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\System.Web.Http.xml
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\bin\System.Web.Http.WebHost.xml
+D:\Podaci\programer8\Documents\Visual Studio 2012\Projects\ADDDDO\Polaznicki_forum\obj\Debug\Polaznicki_forum.csprojResolveAssemblyReference.cache
